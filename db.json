@@ -1,3 +1,5 @@
 {
-  "universityname": "UAH"
+  "universityname": {
+    "name":"UAH"
+  }
 }
